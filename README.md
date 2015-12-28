@@ -1,0 +1,3 @@
+# RecyclerViewDemo
+
+根据数据中的type，模拟使用RecyclerView添加header的Demo
